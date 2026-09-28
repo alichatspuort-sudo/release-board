@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://alichatspuort-sudo.github.io/release-board/sitemap.xml
